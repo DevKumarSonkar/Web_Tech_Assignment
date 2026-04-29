@@ -1,4 +1,4 @@
-# CA2 Assignnment
+# CA2 Assignment
 
 Build a mobile app to manage Tasks, Schedule, and Notes.
 
